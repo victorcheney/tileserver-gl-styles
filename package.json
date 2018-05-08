@@ -1,7 +1,7 @@
 {
-  "name": "tileserver-gl-styles",
+  "name": "tileserver-gl-styles-fm",
   "version": "1.2.0",
-  "description": "Default styles for TileServer-GL",
+  "description": "styles for TileServer-GL fm",
   "authors": [
     "Petr Pridal <petr.pridal@klokantech.com>",
     "Petr Sloup <petr.sloup@klokantech.com>"
